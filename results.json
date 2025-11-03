@@ -1,0 +1,9 @@
+{
+  "overall": {
+    "score": 0.827
+  },
+  "faithfulness": 0.8,
+  "completeness": 0.854,
+  "latency_ms": 0,
+  "tokens_approx": 30
+}
